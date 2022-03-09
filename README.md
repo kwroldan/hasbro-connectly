@@ -17,7 +17,7 @@ If you have a suggestion that would make this better, please fork the repo and c
 
 ### Contact
 
-Kristofer Roldan -
+Kristofer Roldan - kroldan@ford.com
 Tiffany Warren - twarre30@gmail.com
 
 
